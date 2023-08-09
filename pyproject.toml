@@ -31,7 +31,6 @@ classifiers = [
 include = [
     "CHANGELOG.md",
     "MIGRATION.md",
-    "LICENSE.txt",
 ]
 
 [tool.poetry.dependencies]
